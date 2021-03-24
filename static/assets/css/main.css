@@ -1727,7 +1727,11 @@ input, select, textarea {
 		text-align: center;
 	}
 
-	header.intro{
+	h4.intro{
+		font-weight: bold;
+	}
+
+	p.aboutMe{
 		font-weight: bolder;
 	}
 
