@@ -2067,6 +2067,15 @@ input, select, textarea {
 	align-items: center;
 	justify-content: center;
 }
+	@media screen and (max-width: 960px) {
+		.tech-icon-container{
+			width: auto;
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			justify-content: center;
+		}
+	}
 
 .tech-icon{
 	height: 144px;
