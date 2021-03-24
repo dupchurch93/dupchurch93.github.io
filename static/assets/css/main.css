@@ -7,6 +7,10 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+html {
+	scroll-behavior: smooth;
+}
+
 .prof_photo{
 	height: 20rem;
 	width: 30rem;
@@ -1728,10 +1732,6 @@ input, select, textarea {
 	}
 
 	h4.intro{
-		font-weight: bold;
-	}
-
-	p.aboutMe{
 		font-weight: bolder;
 	}
 
