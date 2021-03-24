@@ -2062,6 +2062,7 @@ input, select, textarea {
 
 .tech-icon-container{
 	width: 20%;
+	text-align: center;
 }
 
 .tech-icon{
