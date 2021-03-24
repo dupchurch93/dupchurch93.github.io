@@ -2064,6 +2064,11 @@ input, select, textarea {
 	width: 144px;
 }
 
+.tech-icon img{
+	height: 100%;
+	width: 100%;
+}
+
 	ul.featured-icons {
 		cursor: default;
 		margin: -0.75em 0 0 0;
