@@ -2062,7 +2062,10 @@ input, select, textarea {
 
 .tech-icon-container{
 	width: 20%;
-	text-align: center;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
 }
 
 .tech-icon{
@@ -2070,6 +2073,11 @@ input, select, textarea {
 	width: 144px;
 	box-sizing: border-box;
 	padding: 0.5rem;
+}
+
+.icon-title{
+	font-weight: bolder;
+	top: 1rem;
 }
 
 .tech-icon img{
