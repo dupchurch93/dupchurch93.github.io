@@ -2055,6 +2055,7 @@ input, select, textarea {
 }
 
 .tech-skills-header{
+	width: 100%;
 	text-align: center;
 }
 
