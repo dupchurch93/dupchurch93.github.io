@@ -2049,7 +2049,7 @@ input, select, textarea {
 
 /* Featured Icons */
 
-.icon-container{
+.icons-container{
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-around;
@@ -2058,6 +2058,10 @@ input, select, textarea {
 .tech-skills-header{
 	width: 100%;
 	text-align: center;
+}
+
+.tech-icon-container{
+	width: 20%;
 }
 
 .tech-icon{
