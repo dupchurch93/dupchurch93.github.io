@@ -2049,6 +2049,20 @@ input, select, textarea {
 
 /* Featured Icons */
 
+.icon-container{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.tech-skills-header{
+	text-align: center;
+}
+
+.tech-icon{
+	height: 144px;
+	width: 144px;
+}
+
 	ul.featured-icons {
 		cursor: default;
 		margin: -0.75em 0 0 0;
