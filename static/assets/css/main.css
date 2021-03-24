@@ -1727,6 +1727,10 @@ input, select, textarea {
 		text-align: center;
 	}
 
+	header.intro{
+		font-weight: bolder;
+	}
+
 	header.major {
 		padding-bottom: 2em;
 	}
