@@ -1979,6 +1979,10 @@ input, select, textarea {
 				background: #dcad8b;
 				color: #fff;
 			}
+			.icon.circle.fa-linkedin {
+				background-color: #3fb1a3;
+				color: #fff;
+			}
 
 				.icon.circle.fa-github:hover {
 					background: #e1b89b;
